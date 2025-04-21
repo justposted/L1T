@@ -1,4 +1,4 @@
-MPA,Name,Units,A1-3,A4-5,B,C
+MPA,Name,Units,A1-3 (kg/unit),A4-5,B,C
 Material,Material 1,kg,51,63,35,9
 Material,Material 2,kg,57,15,72,91
 Material,Material 3,kg,69,3,31,63
