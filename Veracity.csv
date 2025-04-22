@@ -1,4 +1,8 @@
 Mechanical, Electrical, Architectural, Structural
+Mechanical, Heating, Cooling, Ventilation
+Electrical, Wires, Cables, Switches
+Architectural, Partitions, Floor finishes, Ceiling finishes
+Structural, Floorplate, Roof, Vertical structure
 MPA,Name,Units,A1-3 (kg/unit),A4-5,B,C
 Material,Material 1,kg,51,63,35,9
 Material,Material 2,kg,57,15,72,91
