@@ -1,4 +1,4 @@
-Option, System, Subsystem, Title, Mass (kg/unit), Units, A1-3 (kgCO2/unit), A1-3 (kgCO2)
+Option, System, Subsystem, Title, Mass (kg/unit), Quantity, Units, A1-3 (kgCO2/unit), A1-3 (kgCO2)
 ,,,,,,,
 System, Select system, Mechanical, Electrical, Architectural, Structural,,
 ,,,,,,,
