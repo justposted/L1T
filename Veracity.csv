@@ -1,21 +1,21 @@
-System, Select subsystem, Mechanical, Electrical, Architectural, Structural
-Subsystem, Mechanical, Heating, Cooling, Ventilation
-Subsystem, Electrical, Wires, Cables, Switches
-Subsystem, Architectural, Partitions, Floor finishes, Ceiling finishes
-Subsystem, Structural, Floorplate, Roof, Vertical structure
-MPA,Name,Units,A1-3 (kg/unit),A4-5,B,C
-Material,Material 1,kg,51,63,35,9
-Material,Material 2,kg,57,15,72,91
-Material,Material 3,kg,69,3,31,63
-Material,Material 4,m2,12,65,14,16
-Material,Material 5,number,28,85,5,7
-Product,Product 1,kg,5,99,18,74
-Product,Product 2,kg,65,45,27,74
-Product,Product 3,kg,62,18,57,81
-Product,Product 4,m2,80,29,56,52
-Product,Product 5,number,44,47,98,1
-Assembly,Assembly 1,kg,8,60,84,49
-Assembly,Assembly 2,kg,69,42,80,21
-Assembly,Assembly 3,kg,66,54,67,6
-Assembly,Assembly 4,m2,50,61,73,17
-Assembly,Assembly 5,number,86,50,36,43
+Option, System, Subsystem, Title, Mass (kg/unit), Units, A1-3 (kgCO2/unit), A1-3 (kgCO2)
+,,,,,,,
+System, Select subsystem, Mechanical, Electrical, Architectural, Structural,,
+,,,,,,,
+Subsystem, Mechanical, Heating, Cooling, Ventilation,,,
+Subsystem, Electrical, Wires, Cables, Switches,,,
+Subsystem, Architectural, Partitions, Floor finishes, Ceiling finishes,,,
+Subsystem, Structural, Floorplate, Roof, Vertical structure,,,
+,,,,,,,
+ Heating,kg,51,,,,,
+ Cooling,kg,57,,,,,
+ Ventilation,kg,69,,,,,
+ Wires,m2,12,,,,,
+ Cables,number,28,,,,,
+ Switches,kg,5,,,,,
+ Partitions,kg,65,,,,,
+ Floor finishes,kg,62,,,,,
+ Ceiling finishes,m2,80,,,,,
+ Floorplate,number,44,,,,,
+ Roof,kg,8,,,,,
+ Vertical structure,kg,69,,,,,
