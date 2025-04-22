@@ -1,21 +1,18 @@
 Option, System, Subsystem, Title, Mass (kg/unit), Quantity, Units, A1-3 (kgCO2/unit), A1-3 (kgCO2)
-,,,,,,,
-System, Select system, Mechanical, Electrical, Architectural, Structural,,
-,,,,,,,
-Subsystem, Select subsystem, Mechanical, Heating, Cooling, Ventilation,,,
-Subsystem, Select subsystem, Electrical, Wires, Cables, Switches,,,
-Subsystem, Select subsystem, Architectural, Partitions, Floor finishes, Ceiling finishes,,,
-Subsystem, Select subsystem, Structural, Floorplate, Roof, Vertical structure,,,
-,,,,,,,
- Heating,kg,51,,,,,
- Cooling,kg,57,,,,,
- Ventilation,kg,69,,,,,
- Wires,m2,12,,,,,
- Cables,number,28,,,,,
- Switches,kg,5,,,,,
- Partitions,kg,65,,,,,
- Floor finishes,kg,62,,,,,
- Ceiling finishes,m2,80,,,,,
- Floorplate,number,44,,,,,
- Roof,kg,8,,,,,
- Vertical structure,kg,69,,,,,
+System, Select system, Mechanical, Electrical, Architectural, Structural
+Subsystem, Select subsystem, Mechanical, Heating, Cooling, Ventilation
+Subsystem, Select subsystem, Electrical, Wires, Cables, Switches
+Subsystem, Select subsystem, Architectural, Partitions, Floor finishes, Ceiling finishes
+Subsystem, Select subsystem, Structural, Floorplate, Roof, Vertical structure
+ Heating,kg,51
+ Cooling,kg,57
+ Ventilation,kg,69
+ Wires,m2,12
+ Cables,number,28
+ Switches,kg,5
+ Partitions,kg,65
+ Floor finishes,kg,62
+ Ceiling finishes,m2,80
+ Floorplate,number,44
+ Roof,kg,8
+ Vertical structure,kg,69
